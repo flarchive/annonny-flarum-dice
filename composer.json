@@ -1,0 +1,34 @@
+{
+    "name": "annonny/flarum-dice",
+    "description": "Dice!",
+    "keywords": [
+        "flarum",
+        "dice"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "require": {
+        "flarum/core": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "annonny",
+            "email": "beautymorax@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/mizhiyugan529/flarum-dice"
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Dice",
+            "category": "feature",
+            "icon": {
+                "name": "fas fa-dice",
+                "backgroundColor": "#ffc4ab",
+                "color": "#fff"
+            }
+        }
+    }
+}
